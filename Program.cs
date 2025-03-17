@@ -1,3 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Teste");
+﻿using Formação_.NET_Developer.Models;
+/*
+Instanciando o camoinho namespace .Models
+ */
+
+Pessoa p = new Pessoa();
