@@ -3,4 +3,8 @@
 Instanciando o camoinho namespace .Models
  */
 
-Pessoa p = new Pessoa();
+Pessoa Pessoa1 = new Pessoa();
+
+Pessoa1.Nome = "Marcelo";
+Pessoa1.Idade = 45;
+Pessoa1.Apresentar();
